@@ -6,7 +6,7 @@
 from base64 import b64encode
 from tqdm import tqdm
 from PIL import Image
-from modelscope.t2v_pipeline import TextToVideoSynthesis, tensor2vid
+from modelscope_local.t2v_pipeline import TextToVideoSynthesis, tensor2vid
 from t2v_helpers.key_frames import T2VAnimKeys  # TODO: move to deforum_tools
 from pathlib import Path
 import numpy as np

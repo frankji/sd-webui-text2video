@@ -2,8 +2,8 @@
 # Read LICENSE for usage terms.
 
 import traceback
-from modelscope.process_modelscope import process_modelscope
-import modelscope.process_modelscope as pm
+from modelscope_local.process_modelscope import process_modelscope
+import modelscope_local.process_modelscope as pm
 from videocrafter.process_videocrafter import process_videocrafter
 from modules.shared import opts
 from .error_hardcode import get_error

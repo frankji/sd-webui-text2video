@@ -1,5 +1,5 @@
 import torch
-from modelscope.t2v_model import _i
+from modelscope_local.t2v_model import _i
 from t2v_helpers.general_utils import reconstruct_conds
 
 class GaussianDiffusion(object):

@@ -148,7 +148,7 @@ HuggingFace space:
 
 https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis
 
-The model PyTorch implementation from ModelScope:
+The model PyTorch implementation from modelscope_local:
 
 https://github.com/modelscope/modelscope/tree/master/modelscope/models/multi_modal/video_synthesis
 
